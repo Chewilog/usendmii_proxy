@@ -4,7 +4,7 @@ from DecodeMask import *
 import pyautogui as mouse
 import json
 import os
-os.environ['DISPAY']=':0'
+os.environ['DISPLAY']=':0'
 
 
 
